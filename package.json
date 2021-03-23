@@ -1,0 +1,20 @@
+{
+  "name": "carbvisor",
+  "version": "1.0.0",
+  "description": "A carb tracking application in Node. Uses an API to get data related to foods you eat, and keeps track of them for you!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "carbs",
+    "nutrition",
+    "nutritionix",
+    "api",
+    "node",
+    "js",
+    "tracker"
+  ],
+  "author": "Shaffan Mustafa",
+  "license": "ISC"
+}
