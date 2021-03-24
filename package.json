@@ -16,5 +16,10 @@
     "tracker"
   ],
   "author": "Shaffan Mustafa",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nutritionix": "^0.6.1",
+    "nutritionix-api": "^1.0.4"
+  }
 }
